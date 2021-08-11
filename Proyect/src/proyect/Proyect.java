@@ -7,7 +7,7 @@ package proyect;
 
 /**
  *
- * @author Andres-PC
+ * @author LuisAnthony-PC
  */
 public class Proyect {
 
